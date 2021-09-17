@@ -19,6 +19,7 @@ interface User {
 export interface Accolade {
   id: string;
   description: string;
+  imageUrl: string;
   payout: number;
   team: Team;
   title: string;

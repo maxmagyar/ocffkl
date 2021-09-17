@@ -12,12 +12,12 @@ function App() {
       <div className="AppContent">
         <Grid container spacing={2}>
           {TeamAccolades.map(accolade => (
-            <Grid item>
+            <Grid key={accolade.id} item>
               <TeamAccolade accolade={accolade}/>
             </Grid>
           ))}
           {PlayerAccolades.map(accolade => (
-            <Grid item>
+            <Grid key={accolade.id} item>
               <PlayerAccolade accolade={accolade}/>
             </Grid>
           ))}

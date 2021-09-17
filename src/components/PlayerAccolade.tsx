@@ -30,7 +30,7 @@ const useStyles = makeStyles((theme: Theme) =>
 
 export default function Accolade({ accolade }: Props) {
   const classes = useStyles();
-  const { id, payout, player, team, title, week } = accolade;
+  const { imageUrl, payout, player, team, title, week } = accolade;
 
   return (
     <Card className={classes.root}>
@@ -45,7 +45,7 @@ export default function Accolade({ accolade }: Props) {
       />
       <CardMedia
         className={classes.media}
-        image={`/static/${id}.png`}
+        image={imageUrl}
         title="Image"
       />
       <CardContent>
