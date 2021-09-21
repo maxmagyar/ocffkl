@@ -14,10 +14,10 @@ export const PlayerAccolades: Array<PlayerAccolade> = [
       team: "ARI"
     },
     team: {
-      name: "Mooney Knight",
+      name: "Trash Pandas",
       user: {
-        firstName: "Jordan",
-        lastName: "Backes"
+        firstName: "Mitch ",
+        lastName: "Magyar"
       }
     },
     week: 2
