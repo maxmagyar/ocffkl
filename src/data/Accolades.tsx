@@ -45,13 +45,13 @@ export const PlayerAccolades: Array<PlayerAccolade> = [
     id: "wrte",
     title: "Top Receiver (WR or TE) Performance",
     description: "",
-    imageUrl: "https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2976499.png",
+    imageUrl: "https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3116406.png&w=350&h=254",
     payout: 10,
     player: {
-      firstName: "Amari",
-      lastName: "Cooper",
-      points: 40.9,
-      team: "DAL"
+      firstName: "Tyreek",
+      lastName: "Hill",
+      points: 50.60,
+      team: "KSC"
     },
     team: {
       name: "T'ChaLamar",
@@ -60,7 +60,7 @@ export const PlayerAccolades: Array<PlayerAccolade> = [
         lastName: "Magyar"
       }
     },
-    week: 1
+    week: 4
   }
 ];
 
@@ -87,7 +87,7 @@ export const TeamAccolades: Array<Accolade> = [
     imageUrl: "https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/c0.79.720.720a/s552x414/59921617_10217394593790551_4218093587629342720_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=da31f3&_nc_ohc=DWU5MkW_k_8AX_90lRt&_nc_ht=scontent-msp1-1.xx&oh=85fb4766a48ba2ff8452b2b54132ff47&oe=61709100",
     payout: 25,
     team: {
-      name: "James the Conqueror",
+      name: "James the Conqueror: 195.65 fpts",
       user: {
         firstName: "Brett",
         lastName: "Farquhar"
