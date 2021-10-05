@@ -51,7 +51,7 @@ export const PlayerAccolades: Array<PlayerAccolade> = [
       firstName: "Tyreek",
       lastName: "Hill",
       points: 50.60,
-      team: "KSC"
+      team: "KCC"
     },
     team: {
       name: "T'ChaLamar",
