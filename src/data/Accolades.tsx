@@ -5,22 +5,22 @@ export const PlayerAccolades: Array<PlayerAccolade> = [
     id: "qb",
     title: "Top Quarter Back Performance",
     description: "",
-    imageUrl: "https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3917315.png&w=350&h=254",
+    imageUrl: "https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4038941.png",
     payout: 10,
     player: {
-      firstName: "Kyler",
-      lastName: "Murray",
-      points: 42.1,
-      team: "ARI"
+      firstName: "Justin",
+      lastName: "Herbert",
+      points: 49.80,
+      team: "LAC"
     },
     team: {
-      name: "Trash Pandas",
+      name: "James the Conqueror",
       user: {
-        firstName: "Mitch ",
-        lastName: "Magyar"
+        firstName: "Brett",
+        lastName: "Farquhar"
       }
     },
-    week: 2
+    week: 5
   }, {
     id: "rb",
     title: "Top Running Back Performance",
@@ -69,30 +69,30 @@ export const TeamAccolades: Array<Accolade> = [
     id: "oddball",
     title: "Oddball",
     description: "",
-    imageUrl: "https://scontent-msp1-1.xx.fbcdn.net/v/t1.18169-9/c56.0.362.362a/263741_10150232853006749_7470933_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=da31f3&_nc_ohc=Ct1blpPv1dwAX8ZiEf3&_nc_ht=scontent-msp1-1.xx&oh=5109f6f8214fe1619e45d8583bb0a904&oe=616DB3D4",
+    imageUrl: "https://scontent-msp1-1.xx.fbcdn.net/v/t1.18169-9/23172928_10209470817758874_6229097329209118275_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=LNphXQ9KdxgAX8q6EsJ&_nc_ht=scontent-msp1-1.xx&oh=46185a69acc81c5d28b147ee4a3e81d9&oe=618B810E",
     payout: 50,
     team: {
-      name: "A.J. Dillmonger",
+      name: "Agent Carter",
       user: {
-        firstName: "Danny",
-        lastName: "Rajchel"
+        firstName: "Casey",
+        lastName: "Magyar"
       }
     },
-    week: 2
+    week: 5
   },
   {
     id: "team",
     title: "Top Scoring Team",
     description: "Matchup: AJ Dillmonger",
-    imageUrl: "https://scontent-msp1-1.xx.fbcdn.net/v/t1.6435-9/c0.79.720.720a/s552x414/59921617_10217394593790551_4218093587629342720_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=da31f3&_nc_ohc=DWU5MkW_k_8AX_90lRt&_nc_ht=scontent-msp1-1.xx&oh=85fb4766a48ba2ff8452b2b54132ff47&oe=61709100",
+    imageUrl: "https://scontent-msp1-1.xx.fbcdn.net/v/t1.18169-9/17991972_10208037811534614_5746311345188518253_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=o1ssIDwnOB8AX_b6quW&_nc_ht=scontent-msp1-1.xx&oh=a6a0b044795219c5fc83c0d4667c2592&oe=618B9171",
     payout: 25,
     team: {
-      name: "James the Conqueror: 195.65 fpts",
+      name: "The Infinity Jones: 214.10 fpts",
       user: {
-        firstName: "Brett",
-        lastName: "Farquhar"
+        firstName: "Paul",
+        lastName: "Magyar"
       }
     },
-    week: 1
+    week: 5
   }
 ];
