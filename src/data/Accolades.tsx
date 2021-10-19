@@ -69,16 +69,16 @@ export const TeamAccolades: Array<Accolade> = [
     id: "oddball",
     title: "Oddball",
     description: "",
-    imageUrl: "https://scontent-msp1-1.xx.fbcdn.net/v/t1.18169-9/23172928_10209470817758874_6229097329209118275_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=LNphXQ9KdxgAX8q6EsJ&_nc_ht=scontent-msp1-1.xx&oh=46185a69acc81c5d28b147ee4a3e81d9&oe=618B810E",
+    imageUrl: "https://scontent-msp1-1.xx.fbcdn.net/v/t1.18169-9/22039_344428331958_6793722_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=de6eea&_nc_ohc=WEjHu_Hp-roAX_-0tmQ&tn=pjBl35fmEWZObDy9&_nc_ht=scontent-msp1-1.xx&oh=1e1136f2f0dec5801e14c5ee00108f94&oe=6192B5AA",
     payout: 50,
     team: {
-      name: "Agent Carter",
+      name: "WaddleVision",
       user: {
-        firstName: "Casey",
-        lastName: "Magyar"
+        firstName: "Jordan",
+        lastName: "Backes"
       }
     },
-    week: 5
+    week: 6
   },
   {
     id: "team",
