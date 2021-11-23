@@ -25,22 +25,22 @@ export const PlayerAccolades: Array<PlayerAccolade> = [
     id: "rb",
     title: "Top Running Back Performance",
     description: "",
-    imageUrl: "https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3043078.png&w=350&h=254",
+    imageUrl: "https://static.www.nfl.com/image/private/t_person_squared_mobile/f_png/league/vrssfndxep2hftp5l9qa.png",
     payout: 10,
     player: {
-      firstName: "Derrick",
-      lastName: "Henry",
+      firstName: "Jonathon",
+      lastName: "Taylor",
       points: 50.7,
       team: "TEN"
     },
     team: {
-      name: "J.A.R.V.I.S. Landry",
+      name: "WaddleVision",
       user: {
-        firstName: "Max",
-        lastName: "Magyar"
+        firstName: "Jordan",
+        lastName: "Backes"
       }
     },
-    week: 2
+    week: 11
   }, {
     id: "wrte",
     title: "Top Receiver (WR or TE) Performance",
